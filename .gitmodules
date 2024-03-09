@@ -1,0 +1,6 @@
+[submodule "lafs"]
+	path = lafs
+	url = https://github.com/lucasdelossantos/learn-angular-from-scratch-step-by-step.git
+[submodule "lafs-api"]
+	path = lafs-api
+	url = https://github.com/lucasdelossantos/learn-how-to-build-a-mean-stack-application.git
