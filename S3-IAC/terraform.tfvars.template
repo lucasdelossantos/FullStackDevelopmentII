@@ -1,0 +1,3 @@
+region = "<set your region>"                
+access_key = "<Add access_key>"             
+secret_key = "<Add secret_key>" 
